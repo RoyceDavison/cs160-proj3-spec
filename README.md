@@ -1,7 +1,8 @@
 # cs160 prog3 implementation details
 
 bCourses assignment part 1: https://bcourses.berkeley.edu/courses/1480508/assignments/7967220
-bCourses assignment part 2: https://bcourses.berkeley.edu/courses/1480508/assignments/7958516
+
+bCourses assignment part 2: https://bcourses.berkeley.edu/courses/1480508/assignments/7971063
 
 starter code: https://github.com/cs160-spring2019/prog3-starter
 
