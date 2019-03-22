@@ -40,7 +40,7 @@ To present the message board, you will need to use an Intent
 
 ```java
 Intent goToSecondActivityIntent = new Intent(FirstActivity.this, SecondActivity.class);
-FirstActivity.this.startActivity(SecondActivity);
+FirstActivity.this.startActivity(goToSecondActivityIntent);
 ```
 
 To pass data through an intent to the next activity, you can use the `putExtra` and `getExtras` methods.
