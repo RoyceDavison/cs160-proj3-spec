@@ -2,7 +2,7 @@
 This guide goes over setting up a your project, and how to read and write to it. To set up a Firebase console, you’ll need a Google account. You can use any google account for this.
 
 ### References 
-- https://firebase.google.com/docs/android/setup
+- https://firebase.google.com/docs/android/setup#console
 - https://firebase.google.com/docs/database/android/read-and-write
 
 ### Getting started 
